@@ -1,0 +1,10 @@
+$ git clone git://github.com/schacon/simplegit.git
+Initialized empty Git repository in /private/tmp/simplegit/.git/
+remote: Counting objects: 100, done.
+remote: Compressing objects: 100% (86/86), done.
+remote: Total 100 (delta 35), reused 0 (delta 0)
+Receiving objects: 100% (100/100), 9.51 KiB, done.
+Resolving deltas: 100% (35/35), done.
+$ cd simplegit/
+$ ls
+README   Rakefile lib
