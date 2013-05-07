@@ -1,3 +1,5 @@
+created by zhuyanming
+
 git init initializes a directory as a Git repository
 To create a repository from an existing directory of files, you can simply run git init in that directory. For example, let's say we have a directory with a few files in it, like this:
 
