@@ -1,6 +1,8 @@
 created by zhuyanming
 date:2013-5-7
 
+Here is added in branch2
+
 $ git clone git://github.com/schacon/simplegit.git
 Initialized empty Git repository in /private/tmp/simplegit/.git/
 remote: Counting objects: 100, done.
