@@ -3,6 +3,7 @@ date:2013-5-7
 
 Here is added in branch2
 Here is added in master
+Here is added in branch2 again
 
 $ git clone git://github.com/schacon/simplegit.git
 Initialized empty Git repository in /private/tmp/simplegit/.git/
